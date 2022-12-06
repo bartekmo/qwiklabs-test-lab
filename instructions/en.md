@@ -1,6 +1,6 @@
 # Test lab
 
-This lab tests capabilities of qwiklabs. Compare with source at (https://github.com/bartekmo/qwiklabs-test-lab)[https://github.com/bartekmo/qwiklabs-test-lab]
+This lab tests capabilities of qwiklabs. Compare with source at [https://github.com/bartekmo/qwiklabs-test-lab](https://github.com/bartekmo/qwiklabs-test-lab)
 
 
 ## Activity tracking
